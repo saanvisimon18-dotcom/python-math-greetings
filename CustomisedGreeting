@@ -1,0 +1,4 @@
+This a repository consisting of a customised greeting.
+This is made through concatenation of two strings.
+Strings consists of a first name and last name.
+At the end a customised greeting is given as per the concatenated string.
