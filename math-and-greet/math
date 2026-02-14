@@ -1,0 +1,12 @@
+n= int(input("Enter first number: "))
+m= int(input("Enter second number: "))
+add= n + m
+sub= n - m
+mul= n * m
+div= n / m
+mod= n % m
+print("Addition: ", add)
+print("Subtraction: ", sub)
+print("Multiplication: ", mul)
+print("Division: ", div)
+print("Modulus: ", mod)
